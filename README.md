@@ -1,10 +1,10 @@
-# Introduction
+# 🗃️ Introduction
 
 For my first-year Computer Science module on databases, I designed and implemented a business solution using phpMyAdmin for a fictitious employment agency.
 
 ---
 
-## Features
+## 💡 Features
 
 - **20 Fully Normalised Entities**: Storing information on applicants, employers, and job applications.
 - **SQL Views**: Created for business requirements, including application feedback.
@@ -14,7 +14,7 @@ For my first-year Computer Science module on databases, I designed and implement
 
 ---
 
-## Screenshots
+## 🖼️ Screenshots
 
 **An overview of the Applications table**  
 ![Overview of the Applications table](https://github.com/Xelodico/random-resources/blob/main/images/csc1023%20databases%20project/phpMyAdmin.png?raw=true)
@@ -30,14 +30,14 @@ For my first-year Computer Science module on databases, I designed and implement
 
 ---
 
-## Run on phpMyAdmin
+## 💻 Run on phpMyAdmin
 
 1. To ensure that you don't lose your work, create an empty database.
 2. Follow this [tutorial](https://help.one.com/hc/en-us/articles/115005588189-How-do-I-import-a-database-to-phpMyAdmin#step-1) for step-by-step instructions on how to import my database (`schema.sql`).
 
 ---
 
-## Documentation
+## 📚 Documentation
 
 - **[Data Dictionary](https://nbviewer.org/github/Xelodico/random-resources/blob/main/documents/csc1023%20databases%20project/dataDictionary.pdf)**  
   Stores the database's metadata.
